@@ -1,0 +1,12 @@
+.gender-container {
+    display: flex;
+    justify-content: space-between;
+
+    .placeholder {
+        color: grey;
+    }
+
+    img {
+        width:10px;
+    }
+}
